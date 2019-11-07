@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://pacificsuraj:radiantmnr1@devconnector-9gjgq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"70744ca78eea6bf7c46b",
+    "githubsecret":"f401ed0321d43de1850eede25413534b48ae5b57"
+}
